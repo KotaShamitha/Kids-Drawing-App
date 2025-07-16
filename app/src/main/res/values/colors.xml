@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Olive">#888958</color>
+    <color name="Horizon">#558e98</color>
+    <color name="Lavender">#a386a9</color>
+    <color name="Terracotta">#c96349</color>
+    <color name="Spanish_Green">#84a48b</color>
+    <color name="Neptune">#7bb2ba</color>
+    <color name="Rose">#E89b88</color>
+    <color name="Random">#ee82ee</color>
+
+</resources>
